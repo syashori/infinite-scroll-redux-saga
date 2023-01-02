@@ -1,0 +1,4 @@
+export const GET_DATA_FOTO = "GET_DATA_FOTO"
+export const SET_DATA_FOTO = "SET_DATA_FOTO"
+export const SEARCH_FOTO = "SEARCH_FOTO"
+export const SET_DATA_SEARCH_FOTO = "SET_DATA_SEARCH_FOTO"
